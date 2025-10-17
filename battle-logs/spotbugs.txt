@@ -1,0 +1,1 @@
+M D ST: Write to static field github.Corners.corner from instance method github.Corners.onDeath(DeathEvent)  At Corners.java:[line 131]
